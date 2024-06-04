@@ -17,3 +17,15 @@
     background-color: darkseagreen;
     text-align: center;
 }
+
+.footer {
+    
+        padding: 100px;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 48px;
+        font-weight: 700;
+        text-align: center;
+        background-color: rgb(191, 59, 243);
+    
+}
